@@ -1,7 +1,5 @@
 # Serverless Image Processing Using AWS
 
-The steps and working flow are mentioned in the [Serverless Image Processing with AWS Lambda and S3](https://www.geeksforgeeks.org/serverless-image-processing-with-aws-lambda-and-s3/) paper.
-
 There are only a few steps to follow:
 
 1. Creating an account in AWS.
